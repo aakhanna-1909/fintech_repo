@@ -1,4 +1,4 @@
-# Project 10 - Using unsupervised machine learning techniques like K-Means and Principal Component Analysis techniques to cluster or segment cryptocurrency data.
+# Module 10 - Using unsupervised machine learning techniques like K-Means and Principal Component Analysis techniques to cluster or segment cryptocurrency data.
 
 ---
 
