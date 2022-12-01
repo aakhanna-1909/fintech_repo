@@ -1,4 +1,4 @@
-# Project 2 - Bank Direct Marketing: A Data Science Project
+# Project - Bank Direct Marketing: A Data Science Project
 
 
 ## Overview of the Project
