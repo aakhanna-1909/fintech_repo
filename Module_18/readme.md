@@ -13,7 +13,7 @@ To use the application, the user must enter values for the sender, receiver, and
 ## Screenshots
 
 
-![Streamlit_Application](images\streamlit_application_screenshot.png)
-![Transaction_Details](images\transaction_details.png)
-![Gitbash](images\git_bash_screenshot.png)
+![Streamlit_Application](C:\Users\aanch\Desktop\fintech_repository\fintech_repo2\Module_18\images\streamlit_application_screenshot.png)
+![Transaction_Details](C:\Users\aanch\Desktop\fintech_repository\fintech_repo2\Module_18\images\transaction_details.png)
+![Gitbash](C:\Users\aanch\Desktop\fintech_repository\fintech_repo2\Module_18\images\git_bash_screenshot.png)
 
